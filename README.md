@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- README.md -->
 
-<!--
-**joshikayarragangula/joshikayarragangula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h3 align="center">Data Analyst | Power BI | SQL | Python</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 Turning raw data into actionable insights<br>
+  📊 Passionate about data storytelling & dashboard automation<br>
+  📍 Based in [Your City, Country]
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+- **BI Tools**: Power BI, Power BI Service  
+- **Languages**: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
+- **Other Tools**: DAX, Power Query (M), Excel, Git, Jupyter, VS Code  
+
+---
+
+## 📈 Featured Projects
+
+| Project | D
