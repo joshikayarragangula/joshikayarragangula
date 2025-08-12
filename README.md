@@ -57,6 +57,6 @@ Analyzed taxi trip data to measure repeat passenger rates, city contributions, a
 
 ## 📫 Let's Connect!
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🔗 [LinkedIn](www.linkedin.com/in/joshika-yarragangula-1131551a7)  
 - 💼 Portfolio: https://github.com/joshikayarragangula/joshikayarragangula
 - 📧 Email: **joshikayarragangula@gmail.com**
